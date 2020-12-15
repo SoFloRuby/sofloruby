@@ -2,10 +2,11 @@
 
 title: SoFloRuby
 description:  All things Ruby in South Florida - A South Florida Ruby Community
+google_analytics: G-KHB2T6H7H7
 
 ### Build settings ###
 
-url: ""
+url: "https://sofloruby.org"
 baseurl: "/"
 
 exclude:
