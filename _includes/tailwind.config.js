@@ -11,5 +11,8 @@ module.exports = {
     colors: colors,
   },
   variants: {},
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/typography'),
+    require('@tailwindcss/ui'),
+  ],
 }

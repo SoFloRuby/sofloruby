@@ -9,6 +9,8 @@ google_analytics: G-KHB2T6H7H7
 url: "https://sofloruby.org"
 baseurl: "/"
 
+permalink: /blog/:title/
+
 exclude:
   - bin/
   - vendor/
